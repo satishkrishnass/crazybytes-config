@@ -5,7 +5,7 @@ accounts:
   message: "This is my accounts app contact prod info"
   contactDetails:
     name: "Satish"
-    email: "062aa3534d373ad28177a28301a17e584116bc192a59aa77876cbcb2c1dcc2c57a5e8df80a9218d381a9e80b75e75102"
+    email: "{cipher}f870c9d0219cd4acd8459b0526800cf4abfc30de3b076c9058501480dcb3484a5c8b69eaa40090aaaf9f7da33d8e9167"
   onCallSupport:
     - 5353322745
     - 3453535252
