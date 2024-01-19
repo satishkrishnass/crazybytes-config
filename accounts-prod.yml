@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "This is my accounts app contact prod info"
+  contactDetails:
+    name: "Satish"
+    email: "satishkrishna@gmail.com"
+  onCallSupport:
+    - 5353322745
+    - 3453535252

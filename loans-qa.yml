@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "This is my loans app contact uat info"
+  contactDetails:
+    name: "Satish"
+    email: "satishkrishna@gmail.com"
+  onCallSupport:
+    - 5353322745
+    - 3453535252
